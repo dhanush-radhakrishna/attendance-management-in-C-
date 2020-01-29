@@ -1,0 +1,7 @@
+day 9-10  10-11 11-12  12-1  2-3   3-4
+mon  hss  hss   hss    oops  oops  oops 
+tue  maths mp   oops   co    maths 
+wed  oops  mp   co     maths
+thu  co    oops mp     maths
+fri  mp    mp   mp     mp    maths
+sat  mp    oops maths  co    maths  oops 

@@ -1,0 +1,7 @@
+day 9-10  10-11 11-12  12-1  2-3   3-4
+mon hss_  hss_  hss_   oops  oops  oops 
+tue maths m.prc oops   c.org maths m.prc
+wed oops  m.prc c.org  maths hss   c.org  
+thu c.org oops  m.prc  maths c.org maths 
+fri m.prc m.prc m.prc  c.org maths oops
+sat m.prc oops  maths  c.org maths c.org 
